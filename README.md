@@ -14,5 +14,5 @@ where Germany will be plotted with a logarithmic y-axis and the US not. The star
 
 ## Credits
 
-* Thanks to Vincents (code for extraction of the data)[https://github.com/VincentStimper/COVID-19-modeling
-* Thanks to the (dataset of Johns Hopkins University)[https://github.com/CSSEGISandData/COVID-19] 
+* Thanks to Vincents [code for extraction of the data](https://github.com/VincentStimper/COVID-19-modeling)
+* Thanks to the [dataset of Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
